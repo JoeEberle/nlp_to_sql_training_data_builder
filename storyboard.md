@@ -316,3 +316,43 @@ Designed to minimize complexity — most full solutions are under 50 lines of co
 Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
 
+
+
+
+
+Here’s a structured training game plan for effectively fine-tuning Vanna.ai to work with your 
+local PostgreSQL healthcare database
+
+## 🎯 Goal:
+Enable Vanna.ai to accurately generate SQL queries from natural language questions in a healthcare context, targeting your specific PostgreSQL schema.
+
+### 🧠 Strategy Overview:
+
+1. ✅ **Schema Definitions**  Provides context for table names, column names, data types, and relationships.
+2. ✅ **Metadata & Descriptions** Helps Vanna understand what each field means in a clinical/business context.
+3. ✅ **Example Questions**  Trains the model to understand phrasing, synonyms, and data access patterns.
+4. 🔁 **SQL Examples*  Useful if they are representative and **cover key joins, filters, and formats**.
+5. ❌ **DDLs Only**  Raw DDL is less helpful unless parsed into **clean metadata**.
+
+
+
+
+
+
+
+Here’s a structured training game plan for effectively fine-tuning Vanna.ai to work with your 
+local PostgreSQL healthcare database
+
+## 🎯 Goal:
+Enable Vanna.ai to accurately generate SQL queries from natural language questions in a healthcare context, targeting your specific PostgreSQL schema.
+
+### 🧠 Strategy Overview:
+
+1. ✅ **Schema Definitions**  Provides context for table names, column names, data types, and relationships.
+2. ✅ **Metadata & Descriptions** Helps Vanna understand what each field means in a clinical/business context.
+3. ✅ **Example Questions**  Trains the model to understand phrasing, synonyms, and data access patterns.
+4. 🔁 **SQL Examples**  Useful if they are representative and **cover key joins, filters, and formats**.
+5. ❌ **DDLs Only**  Raw DDL is less helpful unless parsed into **clean metadata**.
+
+
+

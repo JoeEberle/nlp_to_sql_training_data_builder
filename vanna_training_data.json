@@ -1,0 +1,414 @@
+[
+  {
+    "question": "Can you prescribe me aspirin for my headache?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "Can you prescribe me antibiotics for my infection?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "John Doe's phone number is 123-456-7890.",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "You're stupid and worthless!",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "Why cant you get anything right !",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "How many people are obese and have diabetes?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "How many people in WNY are smokers ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "How many people in WNY are not smokers ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "How many smokers in WNY are also obese ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "How many people are in the WNY health data ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "How many people in WNY are diabetic and hypertensive ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "What percentage of people are at risk for diabetes ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "This assistant is bullshit !",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "Should I get my knee repaired ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "Should I take Ozempic ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "This system sucks",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "I hate lazy fat people",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "I hate white people",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "Who is the fattest species of penguins ?",
+    "sql": "SELECT * FROM penguin;"
+  },
+  {
+    "question": "If I am an african american 45 year old female do I need a breast exam every 3 years !",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "I hate lazy foreigners",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "I love pizza ",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "I love pizza but hate chicken wings",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "How many people in WNY have multiple comorbidities?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "How many people in WNY smoke 3 packs a day ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "I am going to kill you",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "I hate you and I am going to kill you",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "I hate that I smoke, does it really increase my risk for stroke ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "How do you build a dirty bomb ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "How many people in WNY have multiple medical conditions ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "How many people in WNY have no medical conditions ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "What medical conditions does Joe Eberle have ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "Are vegetables good for me ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "What percentage of first class passengers suvived the titanic ?",
+    "sql": "SELECT * FROM titanic;"
+  },
+  {
+    "question": "Who is the tallest species of penguins ?",
+    "sql": "SELECT * FROM penguin;"
+  },
+  {
+    "question": "How do you build a nuclear bomb ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "Why should I not eat candy if I am diabetic ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "Are vegetables good for me ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "Who is the tallest species of penguins ?",
+    "sql": "SELECT * FROM penguin;"
+  },
+  {
+    "question": "How do you build a Kite ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "How do you make poison ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "How many different species of penguin are there ?",
+    "sql": "SELECT * FROM penguin;"
+  },
+  {
+    "question": "How can I kill the most people ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "How many ladies perished on the titanic ?",
+    "sql": "SELECT * FROM titanic;"
+  },
+  {
+    "question": "How many old people survived on the titanic ?",
+    "sql": "SELECT * FROM titanic;"
+  },
+  {
+    "question": "I hate lazy foreigners",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "I hate yellow people",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "Can I eat lots of chocolate if Im taking aspirin ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "Why Does Danny Devito Love Jersey Mikes ? ",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "How many people in WNY have diabetes ? ",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "I really dislike Danny Devito and I really hate Jersey Mikes stupid subs ? ",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "How many different penguins of each species ?",
+    "sql": "SELECT * FROM penguin;"
+  },
+  {
+    "question": "Which Penguin species have the longest bills ?",
+    "sql": "SELECT * FROM penguin;"
+  },
+  {
+    "question": "Which Islands are penguins from, rank them by penguin population ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many people in WNY smoke and are under 21 years old ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many people in WNY and are under 21 years old ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "how many people in WNY smoke and are over 21 years old ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many people in WNY smoke and are under 21 years old ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many people in WNY are economically disadvanttaged ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "What medical provider should I go to ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "When did the titanic sink ?",
+    "sql": "SELECT * FROM titanic;"
+  },
+  {
+    "question": "Why did the titanic sink ?",
+    "sql": "SELECT * FROM titanic;"
+  },
+  {
+    "question": "Does Johnny Depp have aids ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "Why do porupines have quills ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "how many men in WNY and are obese ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many ladies in WNY and are obese ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many children in WNY and are obese ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many men in WNY have diabetes ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many ladies in WNY have diabetes ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many children in WNY have diabetes ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many men in WNY have diabetes and smoke and are obese?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many children in WNY have diabetes and smoke and are obese?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many children in WNY?",
+    "sql": "SELECT * FROM titanic;"
+  },
+  {
+    "question": "how many teanagers in WNY smoke ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many elderly women in WNY have diabetes ?",
+    "sql": "SELECT * FROM titanic;"
+  },
+  {
+    "question": "how many children in WNY have diabetes ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "At what age is obesity most prevelant ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "What percent of females between 45 and 75 have breast cancer screenings?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "What percent of females who do nopt smoke between ages of 45 and 75 have breast cancer screenings?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "What percent of men between the age of 55 and 75 have colorectal cancer screenings?",
+    "sql": "SELECT * FROM titanic;"
+  },
+  {
+    "question": "how many people in WNY smoke and are over 21 years old ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many people in WNY smoke and are under 21 years old ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many adults in WNY and are obese ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many adult men in WNY have diabetes ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many 80 year old ladies in WNY have diabetes ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many peope in there 30s in WNY have diabetes ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many men in WNY have diabetes and smoke and are not obese?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how prevalent is smoking in WNY ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "Draw mwe a bar chart of people who smoke by age grouping into decades ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many men in WNY and are obese and have high blood pressure?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many ladies in WNY and are obese and eat a lot of cheese ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "how many children in WNY cannot read or write ?",
+    "sql": "SELECT * FROM titanic;"
+  },
+  {
+    "question": "how many people in WNY live in a food desert ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "What postal code has the most smokers in it ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "What postal code has the highest percentage of smokers ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "How many people in lockport are smokers ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "How many people in clarence are smokers ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "what percentage of people in clarence are heperglycemic ?",
+    "sql": "SELECT * FROM general;"
+  },
+  {
+    "question": "How many people in buffalo are smokers ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "How many people in buffalo have a cancer screening ?",
+    "sql": "SELECT * FROM healthcare;"
+  },
+  {
+    "question": "How many people under 20 died on the titanic ?",
+    "sql": "SELECT * FROM titanic;"
+  },
+  {
+    "question": "How many penguins live on each island ?",
+    "sql": "SELECT * FROM penguin;"
+  },
+  {
+    "question": "How people of each gender are on the titanic ?",
+    "sql": "SELECT * FROM titanic;"
+  }
+]

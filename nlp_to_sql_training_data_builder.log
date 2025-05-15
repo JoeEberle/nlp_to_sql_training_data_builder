@@ -1,0 +1,4 @@
+2025-05-07 20:26:48,805 - INFO - START nlp_to_sql_training_data_builder =============================================
+2025-05-07 20:26:48,805 - INFO - START nlp_to_sql_training_data_builder Start Time = 2025-05-07 20:26:48
+2025-05-07 20:26:48,805 - INFO - nlp_to_sql_training_data_builder Step 0 - Initialize the configuration file parser
+2025-05-07 20:26:48,805 - INFO - Process started nlp_to_sql_training_data_builder on Date:05-07-2025 at Time:08:26:48 PM 

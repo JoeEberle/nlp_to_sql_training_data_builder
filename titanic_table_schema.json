@@ -1,0 +1,111 @@
+{
+  "table": "titanic",
+  "description": "\nThis data set is about the passengers on the Titanic, including their personal information such as name, age, gender, and ticket information. It also includes information about their survival status, class, and other details such as hometown and destination. ",
+  "columns": [
+    {
+      "name": "PassengerId",
+      "type": "TEXT",
+      "description": "The PassengerId column contains unique identifiers for each passenger in the dataset."
+    },
+    {
+      "name": "Survived",
+      "type": "TEXT",
+      "description": "The Survived column indicates whether a passenger survived (1.0) or did not survive (0.0) the Titanic disaster."
+    },
+    {
+      "name": "Pclass",
+      "type": "TEXT",
+      "description": "The Pclass column represents the passenger class of individuals on a ship, with 1 being first class, 2 being second class, and 3 being third class."
+    },
+    {
+      "name": "Name",
+      "type": "TEXT",
+      "description": "The Name column contains the names of passengers on the Titanic."
+    },
+    {
+      "name": "Sex",
+      "type": "TEXT",
+      "description": "The Sex column contains categorical data indicating the gender of individuals in the dataset."
+    },
+    {
+      "name": "Age",
+      "type": "TEXT",
+      "description": "The Age column contains numerical data representing the age of individuals in the dataset."
+    },
+    {
+      "name": "SibSp",
+      "type": "TEXT",
+      "description": "The SibSp column represents the number of siblings and spouses a passenger had on board the Titanic."
+    },
+    {
+      "name": "Parch",
+      "type": "TEXT",
+      "description": "The Parch column represents the number of parents/children a passenger had on board the Titanic."
+    },
+    {
+      "name": "Ticket",
+      "type": "TEXT",
+      "description": "The Ticket column contains the ticket numbers for each passenger."
+    },
+    {
+      "name": "Fare",
+      "type": "TEXT",
+      "description": "The Fare column contains numerical data representing the amount of money paid for a ticket."
+    },
+    {
+      "name": "Cabin",
+      "type": "TEXT",
+      "description": "The Cabin column contains information about the cabin number or location of passengers on the Titanic."
+    },
+    {
+      "name": "Embarked",
+      "type": "TEXT",
+      "description": "The Embarked column contains the port of embarkation for each passenger on the Titanic."
+    },
+    {
+      "name": "WikiId",
+      "type": "TEXT",
+      "description": "The WikiId column contains numerical values representing the unique identification numbers of Wikipedia articles."
+    },
+    {
+      "name": "Name_wiki",
+      "type": "TEXT",
+      "description": "The Name_wiki column contains the names of passengers on the Titanic."
+    },
+    {
+      "name": "Age_wiki",
+      "type": "TEXT",
+      "description": "The Age_wiki column contains the ages of individuals in the dataset."
+    },
+    {
+      "name": "Hometown",
+      "type": "TEXT",
+      "description": "The Hometown column contains the names of various cities and countries where the individuals in the dataset are from."
+    },
+    {
+      "name": "Boarded",
+      "type": "TEXT",
+      "description": "The Boarded column contains the names of the ports where passengers boarded the ship."
+    },
+    {
+      "name": "Destination",
+      "type": "TEXT",
+      "description": "The Destination column contains locations where the data was collected."
+    },
+    {
+      "name": "Lifeboat",
+      "type": "TEXT",
+      "description": "The Lifeboat column contains information about the lifeboat number or designation for each row in the dataframe."
+    },
+    {
+      "name": "Body",
+      "type": "TEXT",
+      "description": "The Body column contains text data with a total of 10 rows and 2 unique values."
+    },
+    {
+      "name": "Class",
+      "type": "TEXT",
+      "description": "The Class column contains numerical data representing different classes or categories."
+    }
+  ]
+}
