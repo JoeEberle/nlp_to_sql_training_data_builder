@@ -4,11 +4,7 @@
 
 ## establishes training data for AI chatbot
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 ## Code Features
 
 1. Self Documenting  Automatically identifes major steps in notebook
@@ -367,7 +363,7 @@ Enable Vanna.ai to accurately generate SQL queries from natural language questio
 
 
 
-Welcome to the solution **Nlp To Sql Training Data Builder** - an example for your projects
+Welcome to the solution **Nlp To Sql Training Data Builder** 
 
 establishes training data for AI chatbot
 
@@ -730,13 +726,7 @@ Enable Vanna.ai to accurately generate SQL queries from natural language questio
 
 
 <br>
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
